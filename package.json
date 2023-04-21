@@ -26,5 +26,8 @@
     "tailwindcss": "3.3.1",
     "typescript": "5.0.4"
   },
-  "homepage": "https://bgyuee.github.com/app_nextjs_typescript_2023"
+  "homepage": "https://bgyuee.github.com/app_nextjs_typescript_2023",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
